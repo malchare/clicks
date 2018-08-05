@@ -1,0 +1,16 @@
+button {
+  width: 70px;
+}
+
+.clicks {
+  width: 50px;
+  float: left;
+}
+
+.dot {
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 4px;
+}
